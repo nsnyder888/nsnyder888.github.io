@@ -21,7 +21,7 @@
 title: Nate's Notes
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-A collection of some notes and projects I've worked on to improve my knowledge.
+  A collection of some notes and projects I've worked on to improve my knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nsnyder888.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
